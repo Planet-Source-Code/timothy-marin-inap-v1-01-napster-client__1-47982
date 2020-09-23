@@ -1,0 +1,20 @@
+8/21-25 fix/Additions
+
+	Fixed (dosnt Log Chat When Minimized)
+	fix global/announce
+	set chat chr limit 199
+	added up/dwn msg toggle in chat
+	added dont remove disconnected servers from list(if no alternates found)
+	multiline paste in chat
+	fixed speed option
+	Added Teknap/Mirc Colors/Highlight Sweet
+
+	Changed MP3 Header Retreave
+	made length in library in 1:11 format
+	Search on keypress(enter)
+
+	fixed U/l D/l MSG's Shows Current/finish up/down n whois right
+	a txtbox with current song in library
+	R click up/down (server) will msgbox the network name
+	Changed Version To 1.01
+	Added About msgbox
